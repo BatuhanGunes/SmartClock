@@ -10,6 +10,10 @@ arduino project hosting modules:
 - jumpers
 - resistances
 
+### Informations
+
+Coming soon
+
 ### Required Libraries
 
   - DS3231.h
