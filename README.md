@@ -22,7 +22,25 @@ Coming soon
 
 ### Pictures
 
-Coming soon
+- System preparing for Mq-4 sensor and show on Lcd screen
+![Screenshot](https://github.com/BatuhanGunes/SmartClock/blob/master/Pictures/Preparing.jpeg)
+
+- Show Time&Date values on Lcd screen
+![Screenshot](https://github.com/BatuhanGunes/SmartClock/blob/master/Pictures/Time%26Date.jpeg)
+
+- Show Temp&Humi values on Lcd screen
+![Screenshot](https://github.com/BatuhanGunes/SmartClock/blob/master/Pictures/Temp%26Humi.jpeg)
+
+- Show Gas values on Lcd screen and Alarm with buzzer module
+![Screenshot](https://github.com/BatuhanGunes/SmartClock/blob/master/Pictures/Alert.jpeg)
+
+- Show Time&Date, Temp&Humi and Gas values on console
+![Screenshot](https://github.com/BatuhanGunes/SmartClock/blob/master/Pictures/Console.png)
+
+- Circuit Diagram
+![Screenshot](https://github.com/BatuhanGunes/SmartClock/blob/master/Pictures/circuitDiagram.png)
+
+
 
 ### Code
 
