@@ -18,7 +18,7 @@ Projenin oluşturulma tarihi : Ekim 2019
 
 ## Başlangıç
 
-Projeyi çalıştırabilmek için proje dosyalarının bir kopyasını yerel makinenize indirin. Gerekli ortamları ve elektronik malzemeleri edinin. Edindiğiniz malzemeler ile gerekli devreyi kurun. Yazılımı işlemciye yükleyin ve kullanmaya başlayın.
+Projeyi çalıştırabilmek için proje dosyalarının bir kopyasını yerel makinenize indirin. Gerekli ortamları ve elektronik malzemeleri edinin. Gerekli kütüphaneleri yükleyin. Edindiğiniz malzemeler ile gerekli devreyi kurun. Yazılımı işlemciye yükleyin ve kullanmaya başlayın.
 
 ### Gereklilikler
 
@@ -35,7 +35,13 @@ Projeyi çalıştırabilmek için proje dosyalarının bir kopyasını yerel mak
   - jumpers
   - resistances
 
-Gerekli malzemeleri edinin ve devreyi oluşturun. [Arduino IDE](https://www.arduino.cc/en/main/software) adresinden sisteminize uygun IDE yazılımının herhangi bir sürümünü edinerek yerel makinenize kurun. proje dosyalarının bir kopyasını yerel makinenize indirin.. Arduino-pc bağlantısını gerçekleştirerek işlemciye arduino yazılımını arduino IDE ile yükleyin. Sistemi kullanmadan önce test etmeyi unutmayın. Bağlnatıların iyi yapıldığından emin olun.
+Gerekli malzemeleri edinin ve devreyi oluşturun. [Arduino IDE](https://www.arduino.cc/en/main/software) adresinden sisteminize uygun IDE yazılımının herhangi bir sürümünü edinerek yerel makinenize kurun. proje dosyalarının bir kopyasını yerel makinenize indirin. Arduino IDE üzerinden gerekli kütüphanelerin kurulumunu gerçekleştirin. Arduino-pc bağlantısını gerçekleştirerek işlemciye arduino yazılımını arduino IDE ile yükleyin. Sistemi kullanmadan önce test etmeyi unutmayın. Bağlnatıların iyi yapıldığından emin olun.
+
+#### Gerekli Kütüphaneler
+  
+  - DS3231.h
+  - dht11.h
+  - LiquidCrystal.h  (Arduino IDE içerisinde hazır olarak bulunur.)
 
 ## Yazarlar
 
